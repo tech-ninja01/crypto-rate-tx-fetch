@@ -34,7 +34,7 @@
       "pg": "^7.3.0",
       "reflect-metadata": "^0.1.10",
       "ts-node-dev": "^1.0.0-pre.32",
-      "typeorm": "0.2.16",
+      "typeorm": "0.3.0",
       "web3": "0.20.0",
       "winston": "^2.4.4"
    },
